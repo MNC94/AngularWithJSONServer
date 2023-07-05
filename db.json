@@ -1,0 +1,70 @@
+{
+  "productList": [
+    {
+      "product": "s444",
+      "category": "pizza-1",
+      "pickdate": "2023-06-28T18:30:00.000Z",
+      "season": "Summer",
+      "id": 3
+    },
+    {
+      "product": "s5",
+      "category": "pizza-1",
+      "pickdate": "2023-06-27T18:30:00.000Z",
+      "season": "Summer",
+      "id": 4
+    },
+    {
+      "product": "s5",
+      "category": "Tacos-2",
+      "pickdate": "2023-06-27T18:30:00.000Z",
+      "season": "Autumn",
+      "id": 5
+    },
+    {
+      "product": "s7",
+      "category": "Tacos-2",
+      "pickdate": "2023-06-27T18:30:00.000Z",
+      "season": "Spring",
+      "id": 6
+    },
+    {
+      "product": "SS",
+      "category": "steak-0",
+      "pickdate": "2023-06-28T18:30:00.000Z",
+      "season": "Winter",
+      "id": 7
+    },
+    {
+      "product": "S56",
+      "category": "pizza-1",
+      "pickdate": "2023-06-28T18:30:00.000Z",
+      "season": "Winter",
+      "id": 8
+    },
+    {
+      "product": "S12",
+      "category": "pizza-1",
+      "pickdate": "2023-06-29T18:30:00.000Z",
+      "season": "Spring",
+      "id": 9
+    },
+    {
+      "product": "CH2",
+      "category": "pizza-1",
+      "pickdate": "2023-06-28T18:30:00.000Z",
+      "season": "Winter",
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
